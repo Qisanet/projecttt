@@ -1,0 +1,29 @@
+.specials-section {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.special-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.special-item img {
+    width: 150px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.special-description {
+    max-width: 600px;
+}
+
+.special-description h3 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.special-description p {
+    margin: 5px 0;
+}
